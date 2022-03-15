@@ -1,0 +1,57 @@
+.signup{
+    width: 800;
+    margin: 150px;
+    margin-bottom: 100px;
+    background-color: rgb(247, 240, 218);
+    border-top: saddlebrown 1px solid;
+    border-bottom: saddlebrown 1px solid;
+}
+
+form{
+    padding: 50px;
+    padding-left:320px;
+
+}
+form label{
+ width: 80px;
+ margin: 30px;
+ color: saddlebrown;
+ font-weight: 500;
+ font-size: 18px;
+ 
+}
+form button{
+    color:rgb(247, 240, 218);
+    border: saddlebrown 1px solid;
+    border-radius: 5px;
+    margin-left: 15px;
+    background-color:rgba(139, 69, 19, 0.664) ;
+ 
+}
+form button:hover{
+    background-color: saddlebrown;
+    color: white;
+}
+form input{
+    border: saddlebrown solid 1px;
+    border-radius: 5px;
+}
+form h2{
+margin-left: 170px;
+margin-bottom: 40px;
+color: saddlebrown;
+}
+form .signupbtn{
+    margin-left:200px;
+    margin-top: 20px;
+    width:100px;
+    height:40;
+}
+.signupbtn a {
+    color: rgb(154, 105, 45);
+    text-decoration: none;
+}
+.s1,.s2,.s3,.s4{
+    border-bottom: saddlebrown 0.5px solid;
+    margin-top: 25x;
+}

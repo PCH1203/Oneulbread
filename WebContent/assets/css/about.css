@@ -1,0 +1,32 @@
+ 
+    .brandstory{
+        background-color: rgb(247, 240, 218);
+      width: 1100px;
+      margin: 150px;
+}
+    .story1, .story2 {
+    color:  rgb(154, 105, 45);
+    line-height:2;
+    font-weight: 500;
+    margin: 70px;
+    font-size: 20px;
+    }   
+    .story1{
+        padding-top: 50px;
+        margin-left: 50px;
+    }
+    .story2 {
+        padding-bottom: 50px;
+        margin-right: 50px;
+        text-align: left;
+    }
+    .largetext{
+        font-size: 30px;
+        font-weight: 600;
+        text-align: left;
+        color: saddlebrown;
+       
+    }
+    .foot{
+        float: left;
+    }
