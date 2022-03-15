@@ -12,4 +12,10 @@ HTML, CSS, JS 를 이용한 UI 구현과 MVC패턴을 이해하고 DataBase와 �
 <br>
 
 ![1](https://user-images.githubusercontent.com/87962947/158335924-2ba02602-596a-402c-8fe6-90d6e7e1acc2.png)
+<br>
+
+- 로그인 / 회원가입
+<br>
+
+![2](https://user-images.githubusercontent.com/87962947/158336451-6974f3ab-5bcc-45ca-91a9-39d45c092730.png)
 
