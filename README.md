@@ -6,3 +6,10 @@
 
 HTML, CSS, JS 를 이용한 UI 구현과 MVC패턴을 이해하고 DataBase와 연동하여 실제 웹사이트와 유사한 동작을 재연해 보기 위해 기획 하였습니다.
 
+
+
+- 메인페이지
+<br>
+
+![1](https://user-images.githubusercontent.com/87962947/158335924-2ba02602-596a-402c-8fe6-90d6e7e1acc2.png)
+
